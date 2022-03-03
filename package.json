@@ -1,0 +1,17 @@
+{
+   "name": "kwiknotes",
+   "version": "1.0.0",
+   "description": "",
+   "main": "server.js",
+   "scripts": {
+      "start": "nodemon backend/server.js"
+   },
+   "keywords": [],
+   "author": "Femi Ologunwa",
+   "license": "ISC",
+   "dependencies": {
+      "dotenv": "^16.0.0",
+      "express": "^4.17.3",
+      "nodemon": "^2.0.15"
+   }
+}
